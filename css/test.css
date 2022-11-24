@@ -1,0 +1,32 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+h1{
+	font-size: 35px;
+	color: salmon;
+}
+
+h2{
+	font-size: 25px;
+	color: teal;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: skyblue;
+}
+
+span{
+	color: orange;
+}
+
+h1 span{
+	color: yellow;
+}
